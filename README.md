@@ -12,7 +12,7 @@ Programming challenge that brings the classic Battleship game to the terminal.
 - **Compilation:** Via Makefile, including `re`, `clean`, and `fclean` rules.
 - **Binary Name:** navy
 
-## Project Overview 📜
+## Project Overview 🔎
 
 The objective is to implement a terminal version of the Battleship game. Players communicate using signals `SIGUSER1` and `SIGUSER2`, and the game is played on an `8x8 grid`. The game continues until all ships of a player have been hit, at which point the winner is declared.
 
